@@ -3,3 +3,4 @@ streamlit
 PyPDF2
 langchain
 ollama
+faiss-cpu
