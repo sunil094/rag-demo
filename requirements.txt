@@ -1,6 +1,7 @@
+langchain
 langchain_community
+langchain-core
 streamlit
 PyPDF2
-langchain
-ollama
 faiss-cpu
+tiktoken
